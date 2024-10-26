@@ -1,0 +1,104 @@
+,AID_ID_Number,District,Road_EN,Road_TC,Road_SC,Direction,Rotation,GeometryEasting,GeometryNorthing
+10,AID01111,Kowloon City,Hong Chong Road near The Hong Kong Polytechnic University - Northbound (1) ,康莊道近香港理工大學 - 北行（1）,康庄道近香港理工大学 - 北行（1）,East,80,836693,818352
+11,AID01112,Kowloon City,Hong Chong Road near The Hong Kong Polytechnic University - Northbound (2) ,康莊道近香港理工大學 - 北行（2）,康庄道近香港理工大学 - 北行（2）,East,80,836728,818441
+12,AID01113,Yau Tsim Mong,Princess Margaret Road near Parc Palais- Northbound  ,公主道近君頤峰 - 北行,公主道近君頤峰 - 北行,North West,310,836401,819035
+13,AID01114,Kowloon City,Princess Margaret Road near Oi Man Estate - Northbound ,公主道近愛民邨 - 北行 ,公主道近爱民邨 - 北行 ,North,10,836275,819369
+14,AID01115,Kowloon City,Princess Margaret Road near Yu Chun Keung Memorial College - Northbound ,公主道近余振強紀念中學 - 北行 ,公主道近余振强纪念中学 - 北行 ,North East,40,836485,819945
+15,AID01116,Kowloon City,Princess Margaret Road near St. John Ambulance Brigade Kowloon Depot - Northbound ,公主道近聖約翰救傷隊九龍救護站 - 北行 ,公主道近圣约翰救伤队九龙救护站 - 北行 ,North West,310,836454,820193
+16,AID01117,Kowloon City,Waterloo Road near St. George Apartments - Northbound ,窩打老道近聖佐治大廈 - 北行 ,窝打老道近圣佐治大厦 - 北行 ,North,0,836416,820593
+17,AID01118,Kowloon City,Waterloo Road near Kowloon Tong Club - Northbound ,窩打老道近九龍塘會 - 北行 ,窝打老道近九龙塘会 - 北行 ,North,0,836433,821044
+18,AID01119,Kowloon City,Waterloo Road near Durham Road - Northbound ,窩打老道近對衡道- 北行 ,窝打老道近对衡道- 北行 ,North,0,836463,821497
+19,AID01120,Kowloon City,Waterloo Road near Kowloon East Barracks(1) - Northbound ,窩打老道近九龍東軍營(1)- 北行 ,窝打老道近九龙东军营(1) - 北行 ,North,0,836475,821768
+20,AID01121,Kowloon City,Waterloo Road near Kowloon East Barracks(2) - Northbound ,窩打老道近九龍東軍營(2) - 北行 ,窝打老道近九龙东军营(2) - 北行 ,North,0,836502,822157
+21,AID01122,Kowloon City,Waterloo Road near Warwick Road - Northbound ,窩打老道近和域道 - 北行 ,窝打老道近和域道- 北行 ,North West,320,836480,822536
+22,AID01123,Kowloon City,Lion Rock Tunnel Road near Entrance from Kowloon - Northbound ,獅子山隧道公路近九龍入口 - 北行 ,狮子山隧道公路近九龙入口 - 北行 ,North,340,836727,822903
+37,AID01202,Kowloon City,Waterloo Road near Warwick Road - Southbound ,窩打老道近和域道 - 南行 ,窝打老道近和域道- 南行 ,South East,140,836461,822591
+38,AID01203,Kowloon City,Waterloo Road near Junction Road - Southbound ,窩打老道近聯合道 - 南行 ,窝打老道近联合道 - 南行 ,South,180,836504,822205
+39,AID01204,Kowloon City,Waterloo Road near Kowloon East Barracks - Southbound ,窩打老道近九龍東軍營 - 南行 ,窝打老道近九龙东军营 - 南行 ,South,180,836478,821768
+40,AID01205,Kowloon City,Waterloo Road near American Internationnal School - Southbound ,窩打老道近美國國際學校 - 南行 ,窝打老道近美国国际学校 - 南行 ,South,180,836474,821497
+41,AID01206,Kowloon City,Waterloo Road near Kowloon Tong Club - Southbound ,窩打老道近九龍塘會 - 南行 ,窝打老道近九龙塘会 - 南行 ,South,180,836446,821043
+42,AID01207,Kowloon City,Waterloo Road near St. George Apartments - Southbound ,窩打老道近聖佐治大廈 - 南行 ,窝打老道近圣佐治大厦 - 南行 ,South,180,836413,820552
+43,AID01208,Kowloon City,Princess Margaret Road near St. John Ambulance Brigade Kowloon Depot - Southbound ,公主道近聖約翰救傷隊九龍救護站 - 南行 ,公主道近圣约翰救伤队九龙救护站 - 南行 ,South East,130,836411,820255
+44,AID01209,Kowloon City,Princess Margaret Road near Yu Chun Keung Memorial College - Southbound ,公主道近余振強紀念中學 - 南行 ,公主道近余振强纪念中学 - 南行 ,South West,220,836487,819944
+45,AID01210,Kowloon City,Princess Margaret Road near Oi Man Estate - Southbound ,公主道近愛民邨 - 南行 ,公主道近爱民邨 - 南行 ,South,190,836277,819369
+46,AID01211,Kowloon City,Princess Margaret Road near Oi Man Estate - Southbound(2) ,公主道近愛民邨 - 南行(2) ,公主道近爱民村 - 南行(2) ,South East,135,836402,819036
+47,AID01212,Kowloon City,Princess Margaret Road near King's Park -Southbound ,公主道近京士柏道花園 - 南行 ,公主道近京士柏道花园 - 南行 ,South East,130,836469,818943
+48,AID01213,Kowloon City,Hong Chong Road near The Hong Kong Polytechnic University - Southbound ,康莊道近香港理工大學 - 南行 ,康庄道近香港理工大学 - 南行 ,South East,135,836747,818515
+102,AID03106,Yau Tsim Mong,West Kowloon Highway near Centenary Substation - Northbound ,西九龍公路近百周年變電站 - 北行 ,西九龙公路近百周年变电站 - 北行 ,North,20,834605,818760
+103,AID03107,Yau Tsim Mong,West Kowloon Highway near Olympic Plaza - Northbound ,西九龍公路近奧海公園 - 北行 ,西九龙公路近奥海公园 - 北行 ,North,355,834652,819473
+104,AID03108,Yau Tsim Mong,West Kowloon Highway near Olympic MTR Station - Northbound (1) ,西九龍公路近港鐵奧運站 - 北行 (1) ,西九龙公路近港铁奥运站 - 北行 (1) ,North,350,834512,819856
+105,AID03109,Yau Tsim Mong,West Kowloon Highway near Olympic MTR Station - Northbound (2) ,西九龍公路近港鐵奧運站 - 北行 (2) ,西九龙公路近港铁奥运站 - 北行 (2) ,North,350,834436,820040
+106,AID03110,Sham Shui Po,West Kowloon Highway near Tai Kok Tsui Substation - Northbound ,西九龍公路近大角咀變電站 - 北行 ,西九龙公路近大角咀变电站 - 北行 ,North West,315,834086,820588
+107,AID03111,Sham Shui Po,West Kowloon Highway near Nam Cheong MTR Station - Northbound ,西九龍公路近港鐵南昌站 - 北行 ,西九龙公路近港铁南昌站 - 北行 ,North West,310,833758,820901
+108,AID03112,Sham Shui Po,West Kowloon Highway near Hing Wah Street West - Northbound ,西九龍公路近興華街西 - 北行 ,西九龙公路近兴华街西 - 北行 ,North West,300,833449,821105
+109,AID03113,Sham Shui Po,West Kowloon Highway near SKH St. Andrew's Primary School - Northbound ,西九龍公路近聖公會聖安德烈小學 - 北行 ,西九龙公路近圣公会圣安德烈小学 - 北行 ,North West,300,833124,821242
+110,AID03114,Sham Shui Po,West Kln Hwy near Tsing Sha Hwy - Northbound ,西九龍公路近青沙公路 - 北行 ,西九龙公路近青沙公路 - 北行 ,North West,300,832755,821402
+124,AID03203,Sham Shui Po,West Kln Hwy near Hoi Lai Estate - Southbound ,西九龍公路近海麗邨 - 南行 ,西九龙公路近海丽邨 - 南行 ,South East,120,832477,821531
+125,AID03204,Sham Shui Po,West Kowloon Highway near Hing Wah Street West - Southbound ,西九龍公路近興華街 - 南行 ,西九龙公路近兴华街 - 南行 ,South East,120,833364,821148
+126,AID03205,Sham Shui Po,West Kowloon Highway near Nam Cheong MTR Statoin - Southbound ,西九龍公路近港鐵南昌站 - 南行 ,西九龙公路近港铁南昌站 - 南行 ,South East,135,833799,820868
+127,AID03206,Sham Shui Po,West Kowloon Highway near Tai Kok Tsui Substation - Southbound ,西九龍公路近大角咀變電站 - 南行 ,西九龙公路近大角咀变电站 - 南行 ,South East,135,834115,820554
+128,AID03207,Yau Tsim Mong,West Kowloon Highway near Olympian City Promenade Park - Southbound ,西九龍公路近奧海城海濱公園 - 南行 ,西九龙公路近奥海城海滨公园 - 南行 ,South East,140,834324,820256
+129,AID03208,Yau Tsim Mong,West Kowloon Highway near Olympic MTR Station - Southbound ,西九龍公路近港鐵奧運站 - 南行 ,西九龙公路近港铁奥运站 - 南行 ,South,170,834456,819995
+130,AID03209,Yau Tsim Mong,West Kowloon Highway near Hoi Fai Road Promenade - Southbound ,西九龍公路近海輝道海濱公園 - 南行 ,西九龙公路近海辉道海滨公园 - 南行 ,South East,140,834547,819765
+131,AID03210,Yau Tsim Mong,West Kowloon Highway near Olympic Plaza - Southbound ,西九龍公路近奧海公園 - 南行 ,西九龙公路近奥海公园 - 南行 ,South,175,834638,819522
+132,AID03211,Yau Tsim Mong,West Kowloon Highway near Centenary Substation - Southbound ,西九龍公路近百周年變電站 - 南行 ,西九龙公路近百周年变电站 - 南行 ,South,185,834624,818672
+181,AID05109,Kowloon City,Chatham Road North near MTR Ho Man Tin Station - Westbound ,漆咸道北近港鐵何文田站 - 西行 ,漆咸道北近港铁何文田站 - 西行 ,South West,225,836891,818841
+182,AID05110,Yau Tsim Mong,Gascoigne Road near Gun Club Hill Barracks - Westbound ,加士居道近槍會山軍營 - 西行 ,加士居道近枪会山军营-西行,North West,300,836408,818547
+183,AID05111,Yau Tsim Mong,Gascoigne Road near Diocesan Girls' School - Westbound ,加士居道近拔萃女書院 - 西行 ,加士居道近拔萃女书院 - 西行 ,North West,280,835963,818689
+184,AID05113,Yau Tsim Mong,Gascoigne Road Flyover near Prosperous Garden - Northbound ,加士居道天橋近駿發花園 - 北行 ,加士居道天桥近骏发花园 - 北行 ,North,355,835288,819052
+185,AID05114,Yau Tsim Mong,Ferry Street near Cherry Street Park - Northbound ,渡船街近櫻桃街公園 - 北行 ,渡船街近樱桃街公园 - 北行 ,North,0,835233,819365
+186,AID05115,Yau Tsim Mong,West Kowloon Corridor West near Cherry Street Park - Northbound (1) ,西九龍走廊西近櫻桃街公園 - 北行 (1) ,西九龙走廊西近樱桃街公园 - 北行 (1) ,North,0,835176,819761
+187,AID05116,Yau Tsim Mong,West Kowloon Corridor West near Cherry Street Park - Northbound (2) ,西九龍走廊西近櫻桃街公園 - 北行 (2) ,西九龙走廊西近樱桃街公园 - 北行 (2) ,West,270,834960,819942
+188,AID05117,Yau Tsim Mong,West Kowloon Corridor West near Fuk Tsun Street - Northbound ,西九龍走廊西近福全街 - 北行 ,西九龙走廊西近福全街 - 北行 ,North,0,834734,820418
+189,AID05118,Sham Shui Po,West Kowloon Corridor near Tung Chau Street Park - Northbound ,西九龍走廊近通州街公園 - 北行 ,西九龙走廊近通州街公园 - 北行 ,North West,315,834478,820858
+190,AID05119,Sham Shui Po,West Kowloon Corridor near Yen Chow Street West - Northbound ,西九龍走廊近欽州街西 - 北行 ,西九龙走廊近钦州街西 - 北行 ,North West,315,834225,821058
+191,AID05120,Sham Shui Po,West Kowloon Corridor near West Kowloon Law Courts Building - Northbound ,西九龍走廊近西九龍法院大樓 - 北行 ,西九龙走廊近西九龙法院大楼 - 北行 ,North West,315,833845,821382
+192,AID05121,Sham Shui Po,West Kowloon Corridor near Lai Chi Kok MTR Station - Northbound ,西九龍走廊近荔枝角港鐵站 - 北行 ,西九龙走廊近荔枝角港铁站 - 北行 ,West,260,833349,821835
+193,AID05122,Sham Shui Po,Kwai Chung Road near Lai Chi Kok Fire Station- Northbound ,葵涌道近荔枝角消防局 - 北行 ,葵涌道近荔枝角消防局 - 北行 ,North West,280,832892,821921
+194,AID05123,Sham Shui Po,Kwai Chung Road near Delia Memorial School (Glee Path) - Northbound ,葵涌道近地利亞修女紀念學校(吉利徑) - 北行 ,葵涌道近地利亚修女纪念学校(吉利径) - 北行 ,West,275,832471,822002
+195,AID05124,Sham Shui Po,Kwai Chung Road near Kwai Chung Interchange - Northbound ,葵涌道近葵涌交匯處 - 北行 ,葵涌道近葵涌交汇处 - 北行 ,West,275,831931,822103
+218,AID05212,Sham Shui Po,Kwai Chung Road near Mei Foo MTR Station - Southbound ,葵涌道近港鐵美孚站 - 南行 ,葵涌道近港铁美孚站 - 南行 ,East,95,831978,822095
+219,AID05213,Sham Shui Po,Kwai Chung Road near Delia Memorial School (Glee Path) - Southbound ,葵涌道近地利亞修女紀念學校(吉利徑) - 南行 ,葵涌道近地利亚修女纪念学校(吉利径) - 南行 ,East,95,832414,822013
+220,AID05214,Sham Shui Po,Kwai Chung Road near Lai Chi Kok Fire Station - Southbound ,葵涌道近荔枝角消防局 - 南行 ,葵涌道近荔枝角消防局 - 南行 ,South East,90,832799,821939
+221,AID05215,Sham Shui Po,Lai Chi Kok Road near Novel Industrial Building - Southbound ,荔枝角道近永新工業大廈 - 南行 ,荔枝角道近永新工业大厦 - 南行 ,North East,70,833232,821797
+222,AID05216,Sham Shui Po,West Kowloon Corridor near The Pacifica -Southbound ,西九龍走廊近宇晴軒 - 南行,西九龙走廊近宇晴轩 - 南行,South East,135,833513,821819
+223,AID05217,Sham Shui Po,West Kowloon Corridor near West Kowloon Law Courts Building - Southbound ,西九龍走廊近西九龍法院大樓 - 南行 ,西九龙走廊近西九龙法院大楼 - 南行 ,South East,135,833857,821397
+224,AID05218,Sham Shui Po,West Kowloon Corridor near Tung Chau Street Park - Southbound ,西九龍走廊近通州街公園 - 南行 ,西九龙走廊近通州街公园 - 南行 ,South East,135,834412,820920
+225,AID05219,Yau Tsim Mong,West Kowloon Corridor near Sycamore Playground -Southbound ,西九龍走廊近詩歌舞遊樂場 -南行,西九龙走廊近诗歌舞游乐场 -南行,South East,135,834813,820608
+226,AID05220,Yau Tsim Mong,West Kowloon Corridor near Fuk Keung Indistrial Building - Southbound ,西九龍走廊近福強工業大廈 - 南行 ,西九龙走廊近福强工业大厦 - 南行 ,South,175,835092,820342
+227,AID05221,Yau Tsim Mong,West Kowloon Corridor near Cherry Street Park - Southbound (1) ,西九龍走廊近櫻桃街公園 - 南行 (1) ,西九龙走廊近樱桃街公园 - 南行 (1) ,South,180,835168,819951
+228,AID05222,Yau Tsim Mong,West Kowloon Corridor near Cherry Street Park - Southbound (2) ,西九龍走廊近櫻桃街公園 - 南行 (2) ,西九龙走廊近樱桃街公园 - 南行 (2) ,South,180,835224,819543
+229,AID05223,Yau Tsim Mong,West Kowloon Corridor near Prosperous Garden - Southbound ,西九龍走廊近駿發花園 - 南行 ,西九龙走廊近骏发花园 - 南行 ,South,175,835302,819006
+230,AID05224,Yau Tsim Mong,Gascoigne Road near Methodist College - Eastbound ,加士居道近循道中學 - 東行 ,加士居道近循道中学 - 东行 ,South East,135,835729,818891
+231,AID05225,Yau Tsim Mong,Gascoigne Road near Diocesan Girls' School - Eastbound  ,加士居道近拔萃女書院 - 東行 ,加士居道近拔萃女书院 - 东行 ,South East,120,836014,818683
+232,AID05226,Yau Tsim Mong,Gascoigne Road near Gun Club Hill Barracks - Eastbound ,加士居道近槍會山軍營 - 東行 ,加士居道近枪会山军营-东行,South East,120,836367,818560
+233,AID05227,Kowloon City,Chatham Road North near MTR Ho Man Tin Station - Eastbound ,漆咸道北近港鐵何文田站 - 東行 ,漆咸道北近港铁何文田站 - 东行 ,North East,45,836860,818824
+258,AID07121,Kowloon City,Lung Cheung Road near RTHK - Westbound ,龍翔道近香港電臺 - 西行 ,龙翔道近香港电台 - 西行 ,West,280,837025,822677
+259,AID07122,Kowloon City,Lung Cheung Road near Lung Cheung Road Park - Westbound ,龍翔道近龍翔道公園 - 西行 ,龙翔道近龙翔道公园 - 西行 ,West,270,836687,822779
+260,AID07123,Kowloon City,Lung Cheung Road near Elizabethan Court - Westbound ,龍翔道近碧華閣 - 西行 ,龙翔道近碧华阁 - 西行 ,West,260,836292,822848
+261,AID07124,Sham Shui Po,Lung Cheung Road Lookout - Westbound ,龍翔道近觀景台 - 西行 ,龙翔道近观景台 - 西行 ,West,270,835734,822685
+262,AID07125,Sham Shui Po,Lung Cheung Road Beacon Heights - Westbound (1) ,龍翔道近畢架山花園 - 西行 (1) ,龙翔道近毕架山花园 - 西行 (1) ,South West,220,835514,822509
+263,AID07126,Sham Shui Po,Lung Cheung Road Beacon Heights - Westbound (2) ,龍翔道近畢架山花園 - 西行 (2) ,龙翔道近毕架山花园 - 西行 (2) ,West,270,835016,822538
+264,AID07127,Sham Shui Po,Lung Cheung Road Tai Woh Ping - Westbound ,龍翔道近大窩坪 - 西行 ,龙翔道近大窝坪 - 西行 ,West,250,834792,822460
+265,AID07128,Sham Shui Po,Lung Cheung Road near Ching Cheung Road - Westbound ,龍翔道近呈祥道 - 西行 ,龙翔道近呈祥道 - 西行 ,North West,300,834455,822602
+266,AID07129,Sham Shui Po,Lung Cheung Road near Monte Carlton - Westbound ,龍翔道近爾登豪庭 - 西行 ,龙翔道近尔登豪庭 - 西行 ,West,260,833961,822632
+267,AID07130,Sham Shui Po,Ching Cheung Road near Caritas Medical Centre - Westbound ,呈祥道近明愛醫院 - 西行 ,呈祥道近明爱医院 - 西行 ,West,250,833683,822508
+268,AID07131,Sham Shui Po,Ching Cheung Road near Dragon lndustrial Building - Westbound ,呈祥道近龍翔工業大廈 - 西行 ,呈祥道近龙翔工业大厦 - 西行 ,North East,70,833376,822389
+269,AID07132,Sham Shui Po,Ching Cheung Road near CLP Substation - Westbound ,呈祥道近中華電力 - 西行 ,呈祥道近中华电力 - 西行 ,West,250,832772,822442
+270,AID07133,Sham Shui Po,Ching Cheung Road near Lai Chi Kok Park Sports Centre - Westbound ,呈祥道近荔枝角公園體育館 - 西行 ,呈祥道近荔枝角公园体育馆 - 西行 ,North West,300,832324,822443
+271,AID07134,Sham Shui Po,Ching Cheung Road near Ching Lai Court - Westbound ,呈祥道近清麗苑 - 西行 ,呈祥道近清丽苑 - 西行 ,South,200,832068,822256
+272,AID07201,Sham Shui Po,Ching Cheung Road near Ching Lai Court - Eastbound ,呈祥道近清麗苑 - 東行 ,呈祥道近清丽苑 - 东行 ,North,20,832073,822322
+273,AID07202,Sham Shui Po,Ching Cheung Road near CLP Substation - Eastbound ,呈祥道近中華電力 - 東行 ,呈祥道近中华电力 - 东行 ,North East,70,832625,822321
+274,AID07203,Sham Shui Po,Ching Cheung Road near International School - Eastbound ,呈祥道近國際學校 - 東行 ,呈祥道近国际学校 - 东行 ,East,90,833060,822313
+275,AID07204,Sham Shui Po,Ching Cheung Road near Dragon lndustrial Building - Eastbound ,呈祥道近龍翔工業大廈 - 東行 ,呈祥道近龙翔工业大厦 - 东行 ,West,250,833273,822356
+276,AID07205,Sham Shui Po,Ching Cheung Road near Caritas Medical Centre - Eastbound ,呈祥道近明愛醫院 - 東行 ,呈祥道近明爱医院 - 东行 ,North East,70,833731,822530
+277,AID07206,Sham Shui Po,Lung Cheung Road near Monte Carlton - Eastbound ,龍翔道近爾登豪庭 - 東行 ,龙翔道近尔登豪庭 - 东行 ,East,100,834043,822636
+278,AID07207,Sham Shui Po,Lung Cheung Road near Tai Woh Ping - Eastbound ,龍翔道近大窩坪 - 東行 ,龙翔道近大窝坪 - 东行 ,East,90,834715,822445
+279,AID07208,Sham Shui Po,Lung Cheung Road near Block 15 Beacon Heights Phase 2 - Eastbound ,龍翔道近筆架山花園第二期15座 - 東行 ,龙翔道近笔架山花园第二期15座 - 东行 ,East,90,835104,822542
+280,AID07209,Sham Shui Po,Lung Cheung Road Beacon Heights - Eastbound (2) ,龍翔道近畢架山花園 -東行 (2) ,龙翔道近毕架山花园 -东行 (2) ,North East,40,835556,822574
+281,AID07210,Kowloon City,Lung Cheung Road Lookout - Eastbound ,龍翔道近觀景台 - 東行 ,龙翔道近观景台 - 东行 ,East,100,836011,822648
+282,AID07211,Kowloon City,Lung Cheung Road near Elizabethan Court - Eastbound ,龍翔道近碧華閣 - 東行 ,龙翔道近碧华阁 - 东行 ,South East,120,836220,822838
+700,TDSPERE10001,Kowloon City,Prince Edward Road East near Tak Ku Ling Road - Northbound ,太子道東近打鼓嶺道 - 北行 ,太子道东近打鼓岭道 - 北行 ,North East,45,837770,820991
+701,TDSPERE10002,Kowloon City,Prince Edward Road East near Lee Kau Yan Memorial School - Northbound ,太子道東近李求恩紀念中學 - 北行 ,太子道东近李求恩纪念中学 - 北行 ,North East,45,838161,821380
+702,TDSPERE20001,Kowloon City,Prince Edward Road East near Regal Oriental Hotel - Southbound ,太子道東近富豪東方酒店 - 南行 ,太子道东近富豪东方酒店 - 南行 ,South West,225,837907,821124
+703,TDSPERE20002,Kowloon City,Prince Edward Road East near Lee Kau Yan Memorial School - Southbound ,太子道東近李求恩紀念中學 - 南行 ,太子道东近李求恩纪念中学 - 南行 ,South West,225,838139,821359
